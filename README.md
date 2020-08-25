@@ -5,7 +5,8 @@
 bikeshare.py
 
 ### Description
-This is a Python script statistical analysis 
+This is a Python script statistical analysis.
+It was created through the Udacity "Programming for Data Science with Python" course
 
 ### Files used
 bikeshare.py
