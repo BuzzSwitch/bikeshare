@@ -9,7 +9,10 @@ This is a Python script statistical analysis.
 It was created through the Udacity "Programming for Data Science with Python" course
 
 ### Files used
+Python Files
 bikeshare.py
+
+DATA files
 chicago.csv
 newyorkcity.csv
 washington.csv
